@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha",
     "doc": "documentation build Secuencia.js -f html -o docs"
