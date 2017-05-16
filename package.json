@@ -9,7 +9,7 @@
   },
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha",
-    "doc": "documentation build Secuencia.js -f html -o docs"
+    "doc": "documentation build lib/Secuencia.js -f html -o docs"
   },
   "author": "",
   "license": "ISC",
