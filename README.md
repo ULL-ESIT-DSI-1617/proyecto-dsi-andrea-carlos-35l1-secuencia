@@ -1,5 +1,7 @@
 # Proyecto DSI
 
+[![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-secuencia.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-secuencia)
+
 ## Modulo Secuencia.
 
 Este módulo contiene la clase de la que heredarán todas las secuencias que se deseen implementar para el módulo comparar.
